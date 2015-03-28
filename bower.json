@@ -1,0 +1,24 @@
+{
+  "name": "x-spinner",
+  "version": "0.0.0",
+  "authors": [
+    "Yashprit Singh <yashprits@gmail.com>"
+  ],
+  "description": "polymer spinner element",
+  "main": "x-spinner.html",
+  "keywords": [
+    "web-components",
+    "spinner",
+    "polymer",
+    "web-component",
+    "image"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
